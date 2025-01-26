@@ -1,4 +1,4 @@
-// Tarea1ProgramacionSolucionParalela.cpp : This file contains the 'main' function. Program execution begins and ends there.
+// Tarea1ProgramacionSolucionParalela.cpp : 
 //
 
 #include <iostream>
@@ -58,7 +58,7 @@ int main()
 
     // Imprimimos los primeros 20  elementos de R para validar
     std::cout << "Array R (Result): ";
-    for (int i = 0; i < 20; i++) {  // Print first 10 elements
+    for (int i = 0; i < 20; i++) { 
         std::cout << arrayR[i] << " ";
     }
     std::cout << "\n";
